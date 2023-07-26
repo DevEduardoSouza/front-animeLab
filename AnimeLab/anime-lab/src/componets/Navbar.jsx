@@ -13,7 +13,9 @@ const Navbar = () => {
     <div>
       <header>
         <div className="logo">
-          <img src={LogoLoja} alt="logo" />
+          <Link to={"/"}>
+            <img src={LogoLoja} alt="logo" />
+          </Link>
         </div>
         <nav>
           <div className="search">
