@@ -1,5 +1,6 @@
 import React from "react";
 import "./BestSellers.css";
+import { motion } from "framer-motion";
 
 const BestSellers = () => {
   const products = [
@@ -41,7 +42,7 @@ const BestSellers = () => {
     },
   ];
 
-  return <div></div>;
+  return <div className="container-best-sallers">Mais vendidos</div>;
 };
 
 export default BestSellers;
