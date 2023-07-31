@@ -2,6 +2,10 @@
 
 O AnimeLab é um projeto em desenvolvimento que visa criar uma loja online para venda de produtos relacionados a animes. O projeto está sendo desenvolvido utilizando HTML, CSS, JavaScript, React, Bootstrap e algumas bibliotecas externas.
 
+
+# Em desenvolvimento
+![Imagem](AnimeLab/anime-lab/src/assets/img-site.png)
+
 ## Funcionalidades
 
 - Exibição de produtos de anime para venda
